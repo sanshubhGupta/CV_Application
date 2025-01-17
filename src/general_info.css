@@ -1,0 +1,9 @@
+#parent{
+    display:flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    align-items: center;
+    border: 2px solid red;
+    width: 30vw;
+    height: 40vh;
+}
